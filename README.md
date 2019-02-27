@@ -1,3 +1,3 @@
 # movie-finder app
 
-## Created with ASP.NET MVC
+Created with ASP.NET MVC
