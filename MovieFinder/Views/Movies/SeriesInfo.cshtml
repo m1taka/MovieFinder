@@ -1,0 +1,20 @@
+﻿@model SeriesInfo
+@{
+    ViewBag.Title = Model.SeriesName;
+}
+
+<article>
+    <header>
+        <img src="@Model.Banner" alt="Banner" />
+        <h2>@Model.SeriesName</h2>
+    </header>
+    <div id="general-info">
+        <p><strong>Genres:</strong> @string.Join(",", Model.Genres)</p>
+        <p><strong>Network:</strong> @Model.Network</p>
+        <p><strong>Runtime:</strong> @Model.Runtime</p>
+        <p><strong>Rating:</strong> @Model.SiteRating</p>
+    </div>
+    <p>
+        @Model.Overview
+    </p>
+</article>

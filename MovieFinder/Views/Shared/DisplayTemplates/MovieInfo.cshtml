@@ -1,0 +1,10 @@
+﻿@model MovieInfo
+<div class="col-sm-12">
+    <h2>
+        <a href="@Url.Action("SeriesInfo", "Movies", routeValues: new { id = Model.Id })">
+            @Model.SeriesName
+        </a>
+    </h2>
+    <p>@Model.Overview</p>
+    <img src="@Model.Banner" alt="Banner" />
+</div>

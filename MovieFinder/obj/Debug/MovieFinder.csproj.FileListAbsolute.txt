@@ -1,0 +1,210 @@
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\ApplicationInsights.config
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\csc.exe
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\csc.exe.config
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\csc.rsp
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\csi.exe
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\csi.rsp
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.AppContext.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\vbc.exe
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\vbc.exe.config
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\vbc.rsp
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\MovieFinder.dll.config
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\MovieFinder.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\MovieFinder.pdb
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Antlr3.Runtime.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.Web.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Newtonsoft.Json.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Helpers.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Mvc.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Optimization.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Razor.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.Razor.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\WebGrease.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Helpers.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Mvc.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Optimization.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.Razor.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\System.Web.WebPages.Razor.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Antlr3.Runtime.pdb
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Newtonsoft.Json.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Microsoft.AI.Web.xml
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\obj\Debug\MovieFinder.csprojResolveAssemblyReference.cache
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\obj\Debug\MovieFinder.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\obj\Debug\MovieFinder.pdb
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Glimpse.Core.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Glimpse.AspNet.dll
+C:\Users\Training\Desktop\Projects\MovieFinder\MovieFinder\bin\Glimpse.Mvc5.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\ApplicationInsights.config
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\csc.exe
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\csc.exe.config
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\csc.rsp
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\csi.exe
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\csi.rsp
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.AppContext.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.Collections.Immutable.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.IO.FileSystem.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\System.Reflection.Metadata.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\vbc.exe
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\vbc.exe.config
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\vbc.rsp
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\VBCSCompiler.exe
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\roslyn\VBCSCompiler.exe.config
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\MovieFinder.dll.config
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\MovieFinder.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\MovieFinder.pdb
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Antlr3.Runtime.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Glimpse.AspNet.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Glimpse.Core.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Glimpse.Mvc5.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.DependencyCollector.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.Web.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.WindowsServer.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.ApplicationInsights.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.Web.Infrastructure.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Newtonsoft.Json.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Helpers.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Mvc.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Optimization.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Razor.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.Deployment.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.Razor.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\WebGrease.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Helpers.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Mvc.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Optimization.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.Razor.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.Deployment.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\System.Web.WebPages.Razor.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Antlr3.Runtime.pdb
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Newtonsoft.Json.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.ApplicationInsights.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.DependencyCollector.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.WindowsServer.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\bin\Microsoft.AI.Web.xml
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\obj\Debug\MovieFinder.csprojResolveAssemblyReference.cache
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\obj\Debug\MovieFinder.dll
+D:\MitkoLukarski\DaisSoftware\DAIS-20170602T083327Z-001\DAIS\Week 7\ASP.NET MVC Demo\ASP.NET MVC Demo\MovieFinder\obj\Debug\MovieFinder.pdb
+D:\Projects\movie-finder\MovieFinder\bin\ApplicationInsights.config
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\csc.exe
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\csc.exe.config
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\csc.rsp
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\csi.exe
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\csi.rsp
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.AppContext.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\vbc.exe
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\vbc.exe.config
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\vbc.rsp
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\VBCSCompiler.exe
+D:\Projects\movie-finder\MovieFinder\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\movie-finder\MovieFinder\bin\MovieFinder.dll.config
+D:\Projects\movie-finder\MovieFinder\bin\MovieFinder.dll
+D:\Projects\movie-finder\MovieFinder\bin\MovieFinder.pdb
+D:\Projects\movie-finder\MovieFinder\bin\Antlr3.Runtime.dll
+D:\Projects\movie-finder\MovieFinder\bin\Glimpse.AspNet.dll
+D:\Projects\movie-finder\MovieFinder\bin\Glimpse.Core.dll
+D:\Projects\movie-finder\MovieFinder\bin\Glimpse.Mvc5.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.Web.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\movie-finder\MovieFinder\bin\Newtonsoft.Json.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Helpers.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Mvc.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Optimization.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Razor.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.dll
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.Razor.dll
+D:\Projects\movie-finder\MovieFinder\bin\WebGrease.dll
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Helpers.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Mvc.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Optimization.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.Razor.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\movie-finder\MovieFinder\bin\System.Web.WebPages.Razor.xml
+D:\Projects\movie-finder\MovieFinder\bin\Antlr3.Runtime.pdb
+D:\Projects\movie-finder\MovieFinder\bin\Newtonsoft.Json.xml
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\movie-finder\MovieFinder\bin\Microsoft.AI.Web.xml
+D:\Projects\movie-finder\MovieFinder\obj\Debug\MovieFinder.csprojResolveAssemblyReference.cache
+D:\Projects\movie-finder\MovieFinder\obj\Debug\MovieFinder.dll
+D:\Projects\movie-finder\MovieFinder\obj\Debug\MovieFinder.pdb
